@@ -1,0 +1,39 @@
+{
+  "group": "eridium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "eridium:eridium"
+    },
+    "2": {
+      "item": "eridium:eridium"
+    },
+    "3": {
+      "item": "eridium:eridium"
+    },
+    "4": {
+      "item": "eridium:eridium"
+    },
+    "5": {
+      "item": "eridium:eridium"
+    },
+    "6": {
+      "item": "eridium:eridium"
+    },
+    "7": {
+      "item": "eridium:eridium"
+    },
+    "8": {
+      "item": "eridium:eridium"
+    }
+  },
+  "result": {
+    "item": "eridium:eridium_armor_armor_chestplate",
+    "count": 1
+  }
+}

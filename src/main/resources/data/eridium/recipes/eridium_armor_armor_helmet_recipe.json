@@ -1,0 +1,29 @@
+{
+  "group": "eridium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "eridium:eridium"
+    },
+    "1": {
+      "item": "eridium:eridium"
+    },
+    "2": {
+      "item": "eridium:eridium"
+    },
+    "3": {
+      "item": "eridium:eridium"
+    },
+    "5": {
+      "item": "eridium:eridium"
+    }
+  },
+  "result": {
+    "item": "eridium:eridium_armor_armor_helmet",
+    "count": 1
+  }
+}

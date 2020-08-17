@@ -1,9 +1,17 @@
 {
-  "item.eridium.eridiumtool_shovel": "Eridiumtool Shovel",
+  "item.eridium.eridium_armor_armor_chestplate": "EridiumArmor Chestplate",
   "item.eridium.eridiumtool_axe": "Eridiumtool Axe",
-  "item.eridium.eridiumtool_hoe": "Eridiumtool Hoe",
+  "item.eridium.eridium_armor_chestplate": "Eridium Body",
   "block.eridium.eridium_ore": "Eridium Ore",
   "item.eridium.eridium": "Eridium",
   "item.eridium.eridiumtool_pickaxe": "Eridiumtool Pickaxe",
+  "item.eridium.eridium_armor_armor_boots": "EridiumArmor Boots",
+  "item.eridium.eridiumtool_shovel": "Eridiumtool Shovel",
+  "item.eridium.eridium_armor_armor_leggings": "EridiumArmor Leggings",
+  "item.eridium.eridiumtool_hoe": "Eridiumtool Hoe",
+  "item.eridium.eridium_armor_leggings": "Eridium Leggings",
+  "item.eridium.eridium_armor_helmet": "Eridium Helmet",
+  "item.eridium.eridium_armor_armor_helmet": "EridiumArmor Helmet",
+  "item.eridium.eridium_armor_boots": "Eridium Boots",
   "item.eridium.eridiumtool_sword": "Eridiumtool Sword"
 }
