@@ -3,14 +3,14 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "eridiumtool_shovel",
+    "texture": "eridiumultitool",
     "customModelName": "Normal",
-    "name": "Eridium Shovel",
+    "name": "Eridium Multi Tool",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },
-    "toolType": "Spade",
+    "toolType": "MultiTool",
     "harvestLevel": 5,
     "efficiency": 10.0,
     "attackSpeed": 1.0,
