@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eridium:blocks/eridium_ore",
+    "up": "eridium:blocks/eridium_ore",
+    "north": "eridium:blocks/eridium_ore",
+    "east": "eridium:blocks/eridium_ore",
+    "south": "eridium:blocks/eridium_ore",
+    "west": "eridium:blocks/eridium_ore",
+    "particle": "eridium:blocks/eridium_ore"
+  }
+}
