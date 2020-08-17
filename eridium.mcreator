@@ -9,13 +9,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "eridium_ore"
+    },
+    {
+      "name": "Eridium",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eridium"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.eridium.eridium_ore": "Eridium Ore"
+      "block.eridium.eridium_ore": "Eridium Ore",
+      "item.eridium.eridium": "Eridium"
     }
   },
   "workspaceSettings": {
