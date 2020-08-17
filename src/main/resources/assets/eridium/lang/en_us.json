@@ -1,9 +1,10 @@
 {
-  "item.eridium.eridiumtool_shovel": "Eridiumtool Shovel",
+  "item.eridium.eridiumtool_shovel": "Eridium Shovel",
   "item.eridium.eridiumtool_axe": "Eridiumtool Axe",
   "item.eridium.eridiumtool_hoe": "Eridiumtool Hoe",
   "block.eridium.eridium_ore": "Eridium Ore",
   "item.eridium.eridium": "Eridium",
   "item.eridium.eridiumtool_pickaxe": "Eridiumtool Pickaxe",
+  "item.eridium.eridium_multi_tool": "Eridium Multi Tool",
   "item.eridium.eridiumtool_sword": "Eridiumtool Sword"
 }
