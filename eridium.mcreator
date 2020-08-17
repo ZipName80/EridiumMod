@@ -18,14 +18,109 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "eridium"
+    },
+    {
+      "name": "EridiumtoolPickaxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eridiumtool_pickaxe"
+    },
+    {
+      "name": "EridiumtoolAxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eridiumtool_axe"
+    },
+    {
+      "name": "EridiumtoolSword",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eridiumtool_sword"
+    },
+    {
+      "name": "EridiumtoolShovel",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eridiumtool_shovel"
+    },
+    {
+      "name": "EridiumtoolHoe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eridiumtool_hoe"
+    },
+    {
+      "name": "EridiumtoolPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eridiumtool_pickaxe_recipe"
+    },
+    {
+      "name": "EridiumtoolAxeRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eridiumtool_axe_recipe"
+    },
+    {
+      "name": "EridiumtoolSwordRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eridiumtool_sword_recipe"
+    },
+    {
+      "name": "EridiumtoolShovelRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eridiumtool_shovel_recipe"
+    },
+    {
+      "name": "EridiumtoolHoeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eridiumtool_hoe_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.eridium.eridiumtool_shovel": "Eridiumtool Shovel",
+      "item.eridium.eridiumtool_axe": "Eridiumtool Axe",
+      "item.eridium.eridiumtool_hoe": "Eridiumtool Hoe",
       "block.eridium.eridium_ore": "Eridium Ore",
-      "item.eridium.eridium": "Eridium"
+      "item.eridium.eridium": "Eridium",
+      "item.eridium.eridiumtool_pickaxe": "Eridiumtool Pickaxe",
+      "item.eridium.eridiumtool_sword": "Eridiumtool Sword"
     }
   },
   "workspaceSettings": {

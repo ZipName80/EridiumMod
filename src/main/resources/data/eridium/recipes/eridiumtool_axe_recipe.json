@@ -1,0 +1,30 @@
+{
+  "group": "eridium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "eridium:eridium"
+    },
+    "1": {
+      "item": "eridium:eridium"
+    },
+    "2": {
+      "item": "eridium:eridium"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "eridium:eridiumtool_axe",
+    "count": 1
+  }
+}

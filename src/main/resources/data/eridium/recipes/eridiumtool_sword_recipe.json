@@ -1,0 +1,24 @@
+{
+  "group": "eridium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "eridium:eridium"
+    },
+    "1": {
+      "item": "eridium:eridium"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "eridium:eridiumtool_sword",
+    "count": 1
+  }
+}
